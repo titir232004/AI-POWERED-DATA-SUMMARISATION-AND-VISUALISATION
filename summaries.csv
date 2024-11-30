@@ -1,0 +1,44 @@
+Original Text,Abstractive Summary,Extractive Summary
+"Artificial intelligence (AI) vs. machine learning (ML)
+You might hear people use artificial intelligence (AI) and machine learning (ML) interchangeably, especially when discussing big data, predictive analytics, and other digital transformation topics. The confusion is understandable as artificial intelligence and machine learning are closely related. However, these trending technologies differ in several ways, including scope, applications, and more.  
+
+Increasingly AI and ML products have proliferated as businesses use them to process and analyze immense volumes of data, drive better decision-making, generate recommendations and insights in real time, and create accurate forecasts and predictions. ",What are artificial intelligence (AI) and machine learning (ML) and how can you use them to improve your business?,"Artificial intelligence (AI) vs. machine learning (ML) You might hear people use artificial intelligence (AI) and machine learning (ML) interchangeably, especially when discussing big data, predictive analytics, and other digital transformation topics. The confusion is understandable as artificial intelligence and machine learning are closely related. However, these trending technologies differ in several ways, including scope, applications, and more."
+"Moving to the cloud helps companies optimize IT costs. This is because cloud computing eliminates the capital expense of buying hardware and software and setting up and running onsite datacenters—the racks of servers, the round-the-clock electricity for power and cooling, and the IT experts for managing the infrastructure. It adds up fast.","Cloud computing is a growing trend in the technology industry, with many companies moving from on-site datacenters to the internet.","Moving to the cloud helps companies optimize IT costs. This is because cloud computing eliminates the capital expense of buying hardware and software and setting up and running onsite datacenters—the racks of servers, the round-the-clock electricity for power and cooling, and the IT experts for managing the infrastructure. It adds up fast."
+"Big data is a collection of large and complex data sets that are difficult to manage and analyze using traditional data processing tools. Big data can be structured, semi-structured, or unstructured, and can come from many sources, including social media, weather satellites, and IoT devices. 
+Big data is often characterized by the 5 V's: volume, velocity, variety, veracity, and value. Organizations can use big data to: Make better business decisions, Improve processes and policies, Create customer-centric products and services, Conduct machine learning projects, and Perform predictive modeling.","Big data is one of the biggest challenges facing businesses and governments around the world, according to the World Economic Forum (WEF).","Big data is a collection of large and complex data sets that are difficult to manage and analyze using traditional data processing tools. Big data can be structured, semi-structured, or unstructured, and can come from many sources, including social media, weather satellites, and IoT devices. Big data is often characterized by the 5 V's: volume, velocity, variety, veracity, and value."
+"What is data science?
+Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data. This analysis helps data scientists to ask and answer questions like what happened, why it happened, what will happen, and what can be done with the results.
+
+Why is data science important?
+Data science is important because it combines tools, methods, and technology to generate meaning from data. Modern organizations are inundated with data; there is a proliferation of devices that can automatically collect and store information. Online systems and payment portals capture more data in the fields of e-commerce, medicine, finance, and every other aspect of human life. We have text, audio, video, and image data available in vast quantities.  ",What is data science and why is it important for your business or your organisation? the BBC News website looks at some of the key questions.,"What is data science? Data science is the study of data to extract meaningful insights for business. Data science is important because it combines tools, methods, and technology to generate meaning from data."
+"Data summarization and visualization play a critical role in simplifying complex datasets, 
+making it easier to extract meaningful insights and communicate findings. By condensing large 
+amounts of information into concise formats, summarization enables faster analysis, while 
+visualization allows users to interpret data through graphical representations. This project 
+leverages these techniques to develop an effective text summarization tool using Python, 
+combining both backend processing and a user-friendly frontend interface.
+Text summarization is categorized into two main types: extractive and abstractive. Extractive 
+summarization selects and concatenates sentences directly from the original text, while 
+abstractive summarization generates new sentences that encapsulate the essence of the text.
+The project focuses on developing an effective text summarization tool using Python, which 
+combines both backend processing and a user-friendly frontend interface. Text summarization 
+can be categorized into two main types: extractive and abstractive. Extractive summarization 
+selects and concatenates sentences from the original text, while abstractive summarization 
+generates new sentences that encapsulate the text's essence. 
+This project primarily employs a frequency-based summarization model that analyzes input text 
+by tokenizing it into sentences and words, calculating word frequencies while filtering out 
+common stop words. By scoring sentences based on the frequency of their words, the model 
+identifies and selects the most relevant sentences, ensuring that essential information is retained 
+in a simplified manner.
+In addition to its core summarization capabilities, the tool features a CSV file processing 
+capability, allowing users to efficiently summarize bulk text data. Users can upload CSV files 
+containing text entries, apply the summarization algorithm, and seamlessly export the 
+summarized results. To optimize performance, the tool utilizes targeted imports from the Natural 
+Language Toolkit (NLTK), which reduces memory usage and runtime overhead. Furthermore, a 
+randomized summarization option introduces variability in output by randomly selecting 
+sentences from the top-ranked options, enhancing user engagement.
+To make this powerful functionality accessible, a frontend web interface has been developed. 
+This interface allows users to easily input text or upload files while specifying parameters for 
+their summaries. Overall, this project represents a significant advancement in simplifying text 
+summarization through an integrated approach that enhances both efficiency and usability for a 
+diverse range of users","This project aims to develop an effective text summarization tool using Python, which enhances both efficiency and usability for a diverse range of users.","This project leverages these techniques to develop an effective text summarization tool using Python, combining both backend processing and a user-friendly frontend interface. Extractive summarization selects and concatenates sentences directly from the original text, while abstractive summarization generates new sentences that encapsulate the essence of the text. Extractive summarization selects and concatenates sentences from the original text, while abstractive summarization generates new sentences that encapsulate the text's essence."
